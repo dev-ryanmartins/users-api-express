@@ -1,0 +1,18 @@
+[
+  {
+    "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "name": "Ana Souza",
+    "email": "ana.souza@example.com",
+    "active": true,
+    "createdAt": "2026-01-15T10:00:00.000Z",
+    "updatedAt": "2026-01-15T10:00:00.000Z"
+  },
+  {
+    "name": "Teste API",
+    "email": "teste-api@example.com",
+    "active": true,
+    "id": "cd7438b4-8066-4af9-b3e0-90caccc1d669",
+    "createdAt": "2026-09-03T16:24:23.632Z",
+    "updatedAt": "2026-09-03T16:24:23.632Z"
+  }
+]
